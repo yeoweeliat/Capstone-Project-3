@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerApp", "CustomerApp\CustomerApp.csproj", "{35525CF7-3671-4BCF-96C0-FA46609A4029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionConsoleApp", "DependencyInjectionConsoleApp\DependencyInjectionConsoleApp.csproj", "{9C694645-3F7B-4A34-98C1-6B0413AA1EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35525CF7-3671-4BCF-96C0-FA46609A4029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35525CF7-3671-4BCF-96C0-FA46609A4029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35525CF7-3671-4BCF-96C0-FA46609A4029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35525CF7-3671-4BCF-96C0-FA46609A4029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C694645-3F7B-4A34-98C1-6B0413AA1EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C694645-3F7B-4A34-98C1-6B0413AA1EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C694645-3F7B-4A34-98C1-6B0413AA1EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C694645-3F7B-4A34-98C1-6B0413AA1EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFC8F3D-07E7-43A6-9A59-BEFC8CC344ED}
+	EndGlobalSection
+EndGlobal

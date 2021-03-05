@@ -1,0 +1,13 @@
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.exe
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.deps.json
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.runtimeconfig.json
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.runtimeconfig.dev.json
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.dll
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\bin\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.pdb
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.csprojAssemblyReference.cache
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.AssemblyInfo.cs
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.dll
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.pdb
+C:\Users\might\source\repos\CustomerApp\DependencyInjectionConsoleApp\obj\Debug\netcoreapp3.1\DependencyInjectionConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿
+@model List<CustomerApp.Models.Customer>
+
+
+@* @model CustomerApp.Models.Customer *@
+@* strongly typed tries to catch error during compile time *@
+
+
+@{
+    Layout = null;
+}
+
+
+<h2>This is the DisplayCustomer page</h2>
+
+
+<form action="/Customer/Search" method="get">
+    Name: <input type="text" name="customerName" value="" />
+    <input type="submit" value="Search" />
+
+</form>
+
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Address</td>
+    </tr>
+
+    @if (Model != null) // add safeguard logic
+    {
+
+        @foreach (var c in Model) // @ means c#
+        {
+            <tr>
+                <td>@c.customerName</td>
+                <td>@c.address</td>
+            </tr>
+        }
+
+    }
+
+</table>

@@ -1,0 +1,38 @@
+﻿
+@model CustomerApp.ViewModels.CustomerViewModel
+
+
+@{
+    Layout = null;
+}
+
+<h1>This is the CustomerAdd View</h1>
+
+<!-- we dont need razor view anymore if we are using angular, move all to vs code -->
+
+
+<!-- for custom mapping: replace name to textCustomerName and textAddress-->
+<form action="/Customer/Add" method="post">
+    Name :- <input type="text" name="customerName" value="@Model.customer.customerName" /> <br />
+    Address :- <input type="text" name="address" value="@Model.customer.address" /> <br />
+    <input type="submit" value="Add" />
+</form>
+<br />
+
+
+@if (Model != null)
+{
+
+    @foreach (var error in Model.errors)
+    {
+        @error.ErrorMessage
+        <br />
+    }
+
+}
+
+
+
+
+
+@* @model List<System.ComponentModel.DataAnnotations.ValidationResult> *@
